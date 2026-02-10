@@ -71,6 +71,10 @@ duckdb data/raw/reddit.db -ui
 ```
 
 
+## Demo
+
+![DuckDB Analysis Result](duckdb_analysis_result.png)
+
 ## Project Structure
 
 ```
